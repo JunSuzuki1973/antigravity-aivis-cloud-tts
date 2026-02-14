@@ -1,0 +1,31 @@
+# API Keys and Configuration
+config.json
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Audio files (exclude from git, keep them local)
+*.mp3
+*.wav
+*.flac
+*.aac
+*.opus
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

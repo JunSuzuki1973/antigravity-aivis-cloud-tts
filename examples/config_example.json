@@ -1,0 +1,8 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "default_model_uuid": "22e8ed77-94fe-4ef2-871f-a86f94e9a579",
+  "default_style": "ノーマル",
+  "default_format": "mp3",
+  "use_ssml": false,
+  "use_volume_normalizer": true
+}

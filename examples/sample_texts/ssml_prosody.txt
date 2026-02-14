@@ -1,0 +1,12 @@
+<speak>
+  こんにちは。<break time="0.5s"/>
+  <prosody rate="1.2" pitch="1.1">
+    今日はとてもいい天気ですね。
+  </prosody>
+  <break time="0.3s"/>
+  <prosody rate="0.9" pitch="0.9">
+    空を見上げると、きれいな雲が流れています。
+  </prosody>
+  <break time="0.5s"/>
+  散歩に行きましょう！
+</speak>
